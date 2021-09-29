@@ -1,0 +1,148 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+.carousel-indicators{
+    position: relative;
+    
+}
+
+ 
+.carousel-item{
+    height: 100vh;
+    background-size: cover;
+}
+.project-img{
+    width:50vh;
+    height: 50vh;
+    background-size: cover;
+}
+
+.carousel-caption{
+    
+    top: 8rem;
+    left: 1rem;
+}
+.cou-h{
+   font-weight: bolder;
+    color: aliceblue;
+    padding: 1rem;
+}
+.cou-p{
+    margin-top: 0%;
+    color: aliceblue;
+}
+
+.logo{
+    width: 30%;
+}
+body {
+    font-family: 'Lato', sans-serif
+}
+
+
+
+label {
+    color: #333
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px
+}
+h1{
+    text-align: center;
+}
+.icon{
+    color: yellowgreen;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.icon:hover{
+    color: blue;
+}
+.main-content{
+    text-align: center;
+    padding: 1rem;
+}
+.main{
+    background-color: gray;
+    color: black;
+}
+.main h1{
+    color: yellowgreen;
+}
+.main h3{
+    color: yellowgreen;
+}
+.project-m:hover{
+    color: white;
+    background-color: yellowgreen;
+}
+.project-m p{
+    text-align: center;
+}
+.project-mm{
+    text-align: center;
+}
+.Price{
+    font-weight: bolder;
+    margin-top: 2rem;
+    background-color: gainsboro;
+    margin-bottom: 1rem;
+}
+.card{
+    margin-bottom: 2rem;
+}
+.card:hover{
+    color: white;
+    background-color: yellowgreen;
+}
+.john{
+    font-weight: bolder;
+    margin-top: 2rem;
+    background-color: gainsboro;
+    margin-bottom: 1rem;
+}
+.blog{
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+.blog:hover{
+    color: white;
+    background-color: yellowgreen;
+}
+.Price h1{
+    margin: 1rem;
+    color: black;
+    font-weight: bold;
+   
+}
+.footer{
+    background-color: grey;
+    padding: 2rem;
+}
+.fff{
+    text-align: center;
+}
+.contact{
+    background-color: grey;
+}
